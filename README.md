@@ -4,7 +4,7 @@ A Web Application plateform for learning new recipes in wide range of variety wi
 
 <b>Website URL :-</b> 
   <br>
-<b>Video Demo URL :-</b>
+<b>Video Demo URL :-</b> https://drive.google.com/file/d/1fmurjFdwZZgvVZPMoP8A-0zQONYNAr3r/view?usp=sharing
 
 ## UI
 ![alt text](https://github.com/angle361/Your-Kitchen/blob/master/Images/Screenshot%20(65).png)
