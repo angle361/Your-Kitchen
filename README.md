@@ -7,9 +7,9 @@ A Web Application plateform for learning new recipes in wide range of variety wi
 <b>Video Demo URL :-</b>
 
 ## UI
-![alt text](https://github.com/angle361/Meal-finder-API/blob/master/Images/Screenshot%20(65).png)
+![alt text](https://github.com/angle361/Your-Kitchen/blob/master/Images/Screenshot%20(65).png)
 
-![alt text](https://github.com/angle361/Meal-finder-API/blob/master/Images/Screenshot%20(67).png)
+![alt text](https://github.com/angle361/Your-Kitchen/blob/master/Images/Screenshot%20(67).png)
 
 ## Motivation
 
