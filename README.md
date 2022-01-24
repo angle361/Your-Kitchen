@@ -2,9 +2,9 @@
 
 A Web Application plateform for learning new recipes in wide range of variety with the help of proper instructions and ingredients information along with the help of professional chef assistant in the form of Chat-Bot.
 
-<b>Website URL :-</b> 
+<b>Website URL :-</b> https://gentle-grass-04c150d10.1.azurestaticapps.net
   <br>
-<b>Video Demo URL :-</b> https://drive.google.com/file/d/1fmurjFdwZZgvVZPMoP8A-0zQONYNAr3r/view?usp=sharing
+<b>Video Demo URL :-</b> https://drive.google.com/file/d/1fmurjFdwZZgvVZPMoP8A-0zQONYNAr3r/view
 
 ## UI
 ![alt text](https://github.com/angle361/Your-Kitchen/blob/master/Images/Screenshot%20(65).png)
