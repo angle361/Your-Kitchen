@@ -1,6 +1,6 @@
 ## Your Kitchen 🍽
 
-A Web Application plateform for learning new recipes in wide range of variety with the help of proper instructions and ingredients information along with the help of professional chef assistant in the form of Chat-Bot.
+A Web Application platform for learning new recipes in wide range of variety with the help of proper instructions and ingredients information along with the help of professional chef assistant in the form of Chat-Bot.
 
 <b>Website URL :-</b> https://gentle-grass-04c150d10.1.azurestaticapps.net
   <br>
